@@ -1,0 +1,8 @@
+Receipt 2
+Cashier {id=2, name='Stoilka'}
+Current Date/Time : Thu Jun 18 17:42:55 EEST 2020
+Products:
+Chocolate* price: 2.3 quantity: 2
+Milk* price: 1.5 quantity: 1
+Total: 6.1
+Thank you for shopping with us :)

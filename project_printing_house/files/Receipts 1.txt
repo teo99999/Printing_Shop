@@ -1,0 +1,8 @@
+Receipt 1
+Cashier {id=1, name='Maria'}
+Current Date/Time : Tue Jun 23 21:29:22 EEST 2020
+Products:
+Milk* price: 1.5 quantity: 2
+Tomato* price: 2.5 quantity: 1
+Total: 5.5
+Thank you for shopping with us :)

@@ -1,0 +1,8 @@
+Receipt 3
+Cashier {id=2, name='Stoilka'}
+Date 2020-06-10T12:41:05.224940
+Products:
+Chocolate* price: 2.3 quantity: 2
+Milk* price: 1.5 quantity: 1
+Total: 6.1
+Thank you for shopping with us :)
