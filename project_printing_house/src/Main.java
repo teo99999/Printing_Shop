@@ -35,14 +35,6 @@ public class Main {
 
         Client client=new Client(50,register1);
 
-        //ima showGoods za 4
-
-       //ot vuvedete vasheto ime i budjet posle se suzdava client s tezi argumenti
-
-        //za exit prosto sout exit i goSwitch=false???
-
-        //napravi izchakvaneto v runa na registerite da e po-malko
-
         int userChoice;
         boolean goSwitch=true;
         Scanner scanner=new Scanner(System.in);
